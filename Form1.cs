@@ -27,7 +27,7 @@ namespace Excel_Macros_Ablösetool_Fehlermeldungen
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
 
-            comboBox1.Items();
+            
 
            
         }
