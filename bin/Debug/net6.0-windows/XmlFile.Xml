@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <Line>&lt;configuration&gt;</Line>
+  <Line>	&lt;comboBox&gt;</Line>
+  <Line>		&lt;system key="Test 1"&gt; </Line>
+  <Line>			&lt; var key="RootProcessWsEndpoint" value="https://sms-gui-tst.domoff.local/Damas/wse/Processes/"&gt;</Line>
+  <Line>			&lt; var key="RootTimeSeriesWsEndpoint" value="https://sms-gui-tst.domoff.local/Damas/daef-gui/ws/"&gt;</Line>
+  <Line>			&lt; var key="FileshareFolder" value="\\domoff.local\sms\09_Allgemein\SMS_01\OUT"&gt;</Line>
+  <Line>			&lt; var key="FileshareTargetFolder" value="\\domoff.local\sms\09_Allgemein\SMS_01\IN"&gt;</Line>
+  <Line>		&lt;/system&gt;</Line>
+  <Line>	</Line>
+  <Line></Line>
+  <Line>		&lt;system key="Test 2"&gt; </Line>
+  <Line>			&lt; var key="RootProcessWsEndpoint" value="https://stsas202.domoff.local/wse/Processes/"&gt;</Line>
+  <Line>			&lt; var key="RootTimeSeriesWsEndpoint" value="https://stasas202.domoff.local/daef-gui/ws/"&gt;</Line>
+  <Line>			&lt; var key="FileshareFolder" value="\\domoff.local\sms\09_Allgemein\SMS_TST_2\OUT"&gt;</Line>
+  <Line>			&lt; var key="FileshareTargetFolder" value="\\domoff.local\sms\09_Allgemein\SMS_TST_2\IN"&gt;</Line>
+  <Line>		&lt;/system&gt;</Line>
+  <Line></Line>
+  <Line>		&lt;system key="Test 3"&gt; </Line>
+  <Line>			&lt; var key="RootProcessWsEndpoint" value="https://stsas203.domoff.local/wse/Processes/"&gt;</Line>
+  <Line>			&lt; var key="RootTimeSeriesWsEndpoint" value="https://stasas203.domoff.local/daef-gui/ws/"&gt;</Line>
+  <Line>			&lt; var key="FileshareFolder" value="\\domoff.local\sms\09_Allgemein\SMS_TST_3\OUT"&gt;</Line>
+  <Line>			&lt; var key="FileshareTargetFolder" value="\\domoff.local\sms\09_Allgemein\SMS_TST_3\IN"&gt;</Line>
+  <Line>		&lt;/system&gt;</Line>
+  <Line>		</Line>
+  <Line>		&lt;system key="abc"&gt;</Line>
+  <Line>	&lt;/comboBox&gt;</Line>
+  <Line>&lt;/configuration&gt;</Line>
+</root>
